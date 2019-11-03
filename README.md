@@ -1,6 +1,4 @@
 # Tugas2
-Tugas2
-
 
 ### Penggunaan end
 
